@@ -1,0 +1,64 @@
+/**** NAVBAR STYLING *****/
+  #ht_title{
+  color: white;
+}
+
+/******   MAPS   *******/
+#map_title_male{
+font-size: 1.6rem;
+font-weight: 550;
+}
+
+#map_title_female{
+font-size: 1.6rem;
+font-weight: 550;
+}
+
+
+
+/******   SIZES OF CONATINERS/DIVS/ROWS ETC   *******/
+#col_input {
+margin-left: auto;
+margin-right: auto;
+}
+
+
+#col_output {
+margin-left: auto;
+margin-right: auto;
+padding-right: 0px;
+}
+
+#col_description {
+min-height: 380px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#outcome_title {
+font-size: 2.4rem; 
+}
+
+#outcome_title_dt{
+margin-top:10px;
+}
+
+#variable_title {  
+font-size: 1.9rem; 
+}
+
+#download_button_row{
+margin-bottom:20px;
+}
+
+#data_vis_tabs{
+margin-bottom:10px;
+}
+
+#count_desc{
+margin-top: 10px;
+}
+
+#rate_desc{
+margin-top:10px;
+}

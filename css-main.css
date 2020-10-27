@@ -121,9 +121,6 @@ input[type="month"] {
   
   
   /**** NAVBAR STYLING *****/
-  #ht_title{
-  color: white;
-}
 
 .navbar{
   margin-bottom: 30px;
@@ -191,12 +188,6 @@ input[type="month"] {
   background-color: var(--white);
   color: var(--hfRed);
 }
-
-
-
-
-
-
 
 
 
@@ -319,24 +310,6 @@ label{
 
 
 
-/**** D3 TOOLTIP STYLING *****/
-  
-  #tooltipBar {	
-  position: absolute;			
-text-align: center;			
-
-font: 16px sans-serif;		
-
-border-radius: 8px;
-pointer-events: none;	
-}
-
-#tooltipLine {	
-position: absolute;			
-text-align: left;			;				
-font: 16px sans-serif;	
-pointer-events: none;
-}
 
 .table{
   width: 150px;
@@ -354,61 +327,8 @@ td {
 
 
 
-/**** D3 MOUSEOVER STYLES  *****/
-  .mouseSvg {
-    opacity: 0.0;
-    fill: white;
-  }
 
-.mouseSvgBarChart {
-  opacity: 0.0;
-  fill: white;
-}
-
-.guide {
-  stroke-width: 1;
-  stroke: black;
-}
-
-
-#container {
-position: relative;
-}
-
-.popover {
-  pointer-events: none;
-  background: lightsteelblue;
-}
-
-
-
-/**** D3 PLOT FONTS *****/
-  .plot_text{
-    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  }
-
-.output_titles {  
-  font-size: 150%;
-  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-}
-
-.axis{
-  font-size: 90%;
-}
-
-.axisTitle{
-  font-size: 110%;
-}
-
-.legend{
-  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-}
-
-
-/* OUTOUTS */
-  
-  
-  /******   MAPS   *******/
+/******   MAPS   *******/
   
   .leaflet-container { 
     background:white !important;
@@ -428,15 +348,6 @@ position: relative;
 }
 
 
-#map_title_male{
-font-size: 1.6rem;
-font-weight: 550;
-}
-
-#map_title_female{
-font-size: 1.6rem;
-font-weight: 550;
-}
 
 /******   SIZES OF CONATINERS/DIVS/ROWS ETC   *******/
   .container-fluid {
@@ -489,51 +400,6 @@ font-weight: 550;
 
 
 
-#col_input {
-margin-left: auto;
-margin-right: auto;
-}
-
-
-#col_output {
-margin-left: auto;
-margin-right: auto;
-padding-right: 0px;
-}
-
-#col_description {
-min-height: 380px;
-margin-left: auto;
-margin-right: auto;
-}
-
-#outcome_title {
-font-size: 2.4rem; 
-}
-
-#outcome_title_dt{
-margin-top:10px;
-}
-
-#variable_title {  
-font-size: 1.9rem; 
-}
-
-#download_button_row{
-margin-bottom:20px;
-}
-
-#data_vis_tabs{
-margin-bottom:10px;
-}
-
-#count_desc{
-margin-top: 10px;
-}
-
-#rate_desc{
-margin-top:10px;
-}
 
 
 /******   ABOUT TABPAGE   *******/
