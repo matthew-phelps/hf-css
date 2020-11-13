@@ -9,6 +9,11 @@ font-size: 2.6rem;
 font-weight: 400;
 }
 
+#outcome_title_dt{
+  font-size: 2.6rem;
+font-weight: 400;
+}
+
 
 /******   SIZES OF CONATINERS/DIVS/ROWS ETC   *******/
 #col_input {
