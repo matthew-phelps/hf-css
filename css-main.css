@@ -325,9 +325,6 @@ td {
 
 
 /******   SIZES OF CONATINERS/DIVS/ROWS ETC   *******/
-  .container-fluid {
-    margin:auto;
-  }
 
 .well_input{
   background-color:white;
@@ -372,7 +369,6 @@ td {
 .col_DT {
   min-width: 376px;
 }
-
 
 
 

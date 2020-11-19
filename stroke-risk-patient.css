@@ -1,3 +1,21 @@
+.container-fluid {
+  margin:auto;
+  max-width: 1060px
+}
+
+
+.results_header {
+ font-size: 2.5rem;
+ font-weight: bold;
+ line-height: 1.2;
+}
+
+
+.results_well {
+  background-color:white;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 #user_age {
 font-size:3.5rem;
