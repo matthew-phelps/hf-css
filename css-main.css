@@ -308,9 +308,6 @@ label{
     
 }
 
-
-
-
 .table{
   width: 150px;
   background-color:white;
@@ -323,28 +320,6 @@ label{
 
 td {
   text-align:left
-}
-
-
-
-
-/******   MAPS   *******/
-  
-  .leaflet-container { 
-    background:white !important;
-  }
-
-.col_leaflet {
-  min-width:430px;
-  padding-right: 0px;
-}
-
-.leaflet-right .leaflet-control {
-  margin-right: 0px;
-}
-
-.bttn-material-flat.bttn-primary{
-  background:var(--hfBlue);;
 }
 
 
