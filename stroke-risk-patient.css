@@ -5,7 +5,7 @@ label{
 .tooltip-inner{
   font-size: 1.5rem;
   background-color: var(--hfRed);
-  max-width: 300;
+  max-width: 300px;
   
 }
 
