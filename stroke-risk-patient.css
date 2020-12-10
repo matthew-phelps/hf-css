@@ -4,6 +4,7 @@ label{
 
 .tooltip-inner{
   font-size: 1.5rem;
+  background-color: var(--hfRed)
 }
 
 .container-fluid {
