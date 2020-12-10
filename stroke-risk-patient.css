@@ -1,6 +1,11 @@
 label{
   font-size:1.8rem;
 }
+
+.tooltip-inner{
+  font-size: 1.5rem;
+}
+
 .container-fluid {
   margin:auto;
   max-width: 1060px
