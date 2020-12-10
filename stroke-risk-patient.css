@@ -4,12 +4,14 @@ label{
 
 .tooltip-inner{
   font-size: 1.5rem;
-  background-color: var(--hfRed)
+  background-color: var(--hfRed);
+  max-width: 300;
+  
 }
 
 .container-fluid {
   margin:auto;
-  max-width: 1060px
+  max-width: 1060px;
 }
 
 
