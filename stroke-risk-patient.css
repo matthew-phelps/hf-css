@@ -28,6 +28,12 @@ label{
   margin-right: auto;
 }
 
+.explanitory_well {
+  background-color:white;
+  margin-left: 15px;
+  max-width: 650px;
+}
+
 #user_age {
 font-size:3.5rem;
 height:50px;
