@@ -40,7 +40,7 @@ font-size:3.5rem;
 color:white;
 height:50px;
 width: 110px;
-background-color:var(--hfBlue);
+background-color:var(--hfBlueMedium);
   border-color:#efefef;
   }
 
@@ -49,7 +49,7 @@ font-size:3.7rem;
 color:white;
 height:50px;
 width: 110px;
-background-color:var(--hfBlue);
+background-color:var(--hfBlueMedium);
   border-color:#e8e3e3;
   line-height:50px;
 
