@@ -37,11 +37,11 @@ label{
 
 #user_age {
 font-size:3.5rem;
-color:white;
+color:var(--hfBlue);
 height:50px;
 width: 110px;
 background-color:var(--hfBlueMedium);
-  border-color:#efefef;
+  border-color:var(--hfBlue);
   }
 
 #user_age:hover {
@@ -49,7 +49,7 @@ font-size:3.7rem;
 color:white;
 height:50px;
 width: 110px;
-background-color:var(--hfBlueMedium);
+background-color:var(--hfBlue);
   border-color:#e8e3e3;
   line-height:50px;
 
