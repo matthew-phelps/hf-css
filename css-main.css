@@ -191,7 +191,7 @@ label{
 
 .btn.btn-default {
   background-color: var(--white);
-  border-color: var(--hfBlueLight);
+  border-color: var(--hfBlueMedium);
   color:var(--hfBlue);
   font-weight:600;
   ;
