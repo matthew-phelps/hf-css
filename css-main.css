@@ -173,7 +173,9 @@ label{
 
 
 /**** BUTTON STYLES *****/
-  
+  .btn{
+    font-size: 1.7rem;
+  }
   .btn.radiobtn.btn-default.active {
     background-color:var(--hfBlue);
     border-color:var(--hfBlue);
