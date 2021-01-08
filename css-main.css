@@ -391,3 +391,8 @@ td {
   summary{
     padding-bottom: 15px;
   }
+
+
+.modal-body{
+  font-size: 1.7rem;
+}
