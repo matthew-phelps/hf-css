@@ -179,7 +179,6 @@ label{
     border-color:var(--hfBlue);
     font-weight:bold;
     color:white;
-    font-size: 1.5rem;
     padding-right:5px;
     padding-left:5px;
   }
@@ -192,7 +191,6 @@ label{
   background-color: var(--white);
   border-color: var(--hfBlueLight);
   color:var(--hfBlue);
-  font-size:1.5rem;
   font-weight:600;
   ;
 }
@@ -201,7 +199,6 @@ label{
   background-color: var(--hfBlueMedium);
   border-color: var(--hfBlueMedium);
   color:white;
-  font-size: 1.5rem;
   font-weight: 600;
   padding-right:5px;
   padding-left:5px;
@@ -212,7 +209,7 @@ label{
   border-color:var(--hfBlue);
   font-weight:bold;
   color:white;
-  font-size: 1.5rem;
+ 
   
 }
 
