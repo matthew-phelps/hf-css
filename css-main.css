@@ -188,7 +188,7 @@ label{
   height: 35px;
 }
 
-.btn.radiobtn.btn-default {
+.btn.btn-default {
   background-color: var(--white);
   border-color: var(--hfBlueLight);
   color:var(--hfBlue);
@@ -197,7 +197,7 @@ label{
   ;
 }
 
-.btn.radiobtn.btn-default:hover {
+.btn.btn-default:hover {
   background-color: var(--hfBlueMedium);
   border-color: var(--hfBlueMedium);
   color:white;
