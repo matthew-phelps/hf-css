@@ -1,3 +1,11 @@
+/**** OVERRIDES FROM MAIN STLYLE SHEET ****/
+.btn.radiobtn.btn-default {
+  border-color: var(--hfBlueMedium);
+}
+/**** END OVERRIDE ****/
+
+
+
 label{
   font-size:1.8rem;
 }
