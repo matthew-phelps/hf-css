@@ -1,6 +1,15 @@
 /**** OVERRIDES FROM MAIN STLYLE SHEET ****/
 .btn.radiobtn.btn-default {
+  border-color: var(--hfBlueLight);
+  background-color: var(--hfBlueLight);
+  border-radius: 0;
+}
+
+btn.radiobtn.btn-default:hover {
+  background-color: var(--hfBlueMedium);
   border-color: var(--hfBlueMedium);
+  color:white;
+  font-weight: 600;
 }
 /**** END OVERRIDE ****/
 
