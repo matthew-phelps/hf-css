@@ -1,4 +1,12 @@
 /**** OVERRIDES FROM MAIN STLYLE SHEET ****/
+.btn.btn-default {
+  background-color: var(--hfBlue);
+  border-color: var(--hfBlueMedium);
+  color:var(--white);
+
+}
+
+
 .btn.radiobtn.btn-default {
   border-color: var(--hfBlueLight);
   background-color: var(--hfBlueLight);
