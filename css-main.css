@@ -316,8 +316,10 @@ td {
   font-size:1.7rem;
 }
 
-.ref{
-  font-size: 1.7rem;}
+.ref_text{
+  font-style: italic;
+  font-size:1.7rem;
+}
 
 .tab-pane.active{
   margin-top: -15px;
@@ -349,9 +351,6 @@ td {
 }
 
 
-.explanitory_text{
-  font-style: italic;
-}
 /******   CODE TABPAGE   *******/
   summary{
     padding-bottom: 15px;
