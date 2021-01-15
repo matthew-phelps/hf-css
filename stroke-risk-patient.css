@@ -11,6 +11,11 @@
   color:white;
   font-weight: 600;
 }
+
+.btn-group>.btn-group:last-child:not(:first-child)>.btn:first-child {
+    border-left-color: var(--hfBlue);
+    border-left: dotted;
+    border-left-width: 1px;
 /**** END OVERRIDE ****/
 
 
