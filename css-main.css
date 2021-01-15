@@ -349,6 +349,9 @@ td {
 }
 
 
+.explanitory_text{
+  font-style: italic;
+}
 /******   CODE TABPAGE   *******/
   summary{
     padding-bottom: 15px;
