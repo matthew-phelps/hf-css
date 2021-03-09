@@ -85,6 +85,18 @@ label{
 
 /* Pop-up */
 
+
+label[for="new_af"]{
+  font-size: 1.7rem;
+  font-weight: 450;
+}
+
+label[for="no_ac"]{
+  font-size: 1.7rem;
+  font-weight: 450;
+}
+
+
 #new_af {
 max-width: 340px
 }
