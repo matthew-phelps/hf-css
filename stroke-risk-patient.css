@@ -82,6 +82,18 @@ label{
   font-size: 1.7rem;
 }
 
+
+/* Pop-up */
+
+#new_af {
+#max-width: 340px
+#}
+
+#no_ac {
+max-width: 340px
+}
+
+
 #user_age {
 font-size:3.5rem;
 color:var(--hfBlue);
