@@ -85,6 +85,9 @@ label{
 
 /* Pop-up */
 
+.modal-title{
+  font-size: 2.5rem;
+}
 
 label[for="new_af"]{
   font-size: 1.7rem;
