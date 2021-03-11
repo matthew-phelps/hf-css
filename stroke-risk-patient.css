@@ -87,6 +87,7 @@ label{
 
 .modal-title{
   font-size: 2.5rem;
+  font-weight:650;
 }
 
 label[for="new_af"]{
