@@ -223,6 +223,12 @@ label{
   color:white;
 }
 
+.btn.btn-default-inverted {
+  background-color: var(--white);
+  border-color: var(--white);
+  color:var(--hfBlue);
+
+}
 
 
 /**** DROPDOWN *****/
