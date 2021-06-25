@@ -308,7 +308,9 @@ td {
 
 
 /******   SIZES OF CONATINERS/DIVS/ROWS ETC   *******/
-
+.results_container{
+  min-height: 390px;
+}
 .well_input{
   background-color:white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
