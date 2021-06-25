@@ -176,6 +176,15 @@ label{
   .btn{
     font-size: 1.7rem;
   }
+  
+  
+  .btn.btn-default-no-hover {
+  background-color: var(--hfBlue);
+  border-color: var(--hfBlueMedium);
+  color:var(--white);
+
+}
+  
   .btn.radiobtn.btn-default.active {
     background-color:var(--hfBlue);
     border-color:var(--hfBlue);
