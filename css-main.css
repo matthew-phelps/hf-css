@@ -317,14 +317,14 @@ td {
   min-height: 350px;
 }
 
-.right_aligned{
-  float:right;
-  margin-right: 10px;
-}
-
 .row{
   margin-left:-10px;
   margin-right:-10px
+}
+
+.right_aligned{
+  float:right;
+  margin-right: 10px;
 }
 
 .well_description {
