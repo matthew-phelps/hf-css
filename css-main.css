@@ -327,6 +327,9 @@ td {
   margin-right: 10px;
 }
 
+.gauge_row{
+  max-width: 400px;
+}
 .well_description {
   background-color:white;
   margin-left: auto;
