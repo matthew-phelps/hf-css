@@ -164,6 +164,15 @@ margin-right: auto;
 min-height: 220px;
 }
 
+#plot_stroke{
+  float:left
+  
+}
+
+#stroke_desc2{
+  padding-bottom: 10px;
+}
+
 
 /* STYLE FOR BOARD */
   
