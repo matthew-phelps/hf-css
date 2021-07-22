@@ -319,6 +319,7 @@ td {
 
 .right_aligned{
   float:right;
+  margin-right: 10px;
 }
 
 .row{
