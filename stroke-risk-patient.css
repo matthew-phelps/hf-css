@@ -191,7 +191,8 @@ min-height: 220px;
 
 #row_restart{
   margin-top: 25px;
-  margin-left: 1px;
+  margin-left: 10px;
+  margin-right: 10px;
   display: flex;
   justify-content: space-between;
 }
