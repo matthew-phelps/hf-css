@@ -194,6 +194,11 @@ min-height: 220px;
   margin-left: 1px;
 }
 
+/*Hide tabset from users*/
+#tabset{
+  display: none;
+}
+
 /* STYLE FOR BOARD */
   
   #board-inner {
