@@ -232,19 +232,6 @@ label{
   color:white;
 }
 
-.btn.btn-default-inverted {
-  background-color: var(--white);
-  border-color: var(--white);
-  color:var(--hfBlue);
-
-}
-.btn.btn-default-inverted:hover {
-  background-color: var(--white);
-  border-color:var(--hfBlue);
-  color:var(--hfBlue);
-
-}
-
 
 /**** DROPDOWN *****/
   
