@@ -192,6 +192,8 @@ min-height: 220px;
 #row_restart{
   margin-top: 25px;
   margin-left: 1px;
+  display: flex;
+  justify-content: space-between;
 }
 
 /*Hide tabset from users*/
