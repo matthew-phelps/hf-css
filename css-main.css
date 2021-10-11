@@ -359,6 +359,10 @@ td {
   max-width: 200px;
 }
 
+.about_well_lmhs {
+  max-width: 230px;
+}
+
 .col_about_text{
   max-width:1060px;
 }
