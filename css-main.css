@@ -364,6 +364,11 @@ td {
 }
 
 
+.col_about_text_lmhs{
+  max-width:740px;
+}
+
+
 /******   CODE TABPAGE   *******/
   summary{
     padding-bottom: 15px;
